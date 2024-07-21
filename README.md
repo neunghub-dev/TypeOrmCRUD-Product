@@ -1,4 +1,4 @@
-# Awesome Project Build with TypeORM
+# Project Testing TypeORM Express
 
 Steps to run this project:
 
